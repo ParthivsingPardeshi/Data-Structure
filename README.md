@@ -13,6 +13,10 @@ This folder contains various C++ programs that demonstrate fundamental data stru
 7. **infix_to_post.cpp**: Converts an infix expression to postfix notation using a stack.
 8. **Bubble.cpp**: Implements the Bubble Sort algorithm to sort an array.
 9. **Binary_Search.cpp**: Implements the Binary Search algorithm to find an element in a sorted array.
+10. **Du-Linked-List.cpp**: Demonstrates operations (create, insert, delete, search, display) on a doubly linked list.
+11. **Linear_Search.cpp**: Implements the Linear Search algorithm to find an element in an array.
+12. **linear_linklist.cpp**: Demonstrates operations (insert, delete, display) on a singly linked list.
+13. **Dqueue.cpp**: Implements a deque (double-ended queue) with operations to insert and delete from both ends.
 
 ## How to Run
 
@@ -28,5 +32,7 @@ These programs are part of the coursework for understanding and implementing dat
 - Stack and queue operations
 - Matrix operations
 - Expression conversion
+- Linked list operations
+- Deque operations
 
 Feel free to explore and modify the programs to enhance your understanding of data structures and algorithms.
